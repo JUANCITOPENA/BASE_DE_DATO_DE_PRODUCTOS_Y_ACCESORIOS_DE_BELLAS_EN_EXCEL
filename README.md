@@ -12,3 +12,5 @@ BASE DE DATOS DE PRODUCTOS Y ACCESORIOS DE BELLAS
 👍❤No te pierdas esta emocionante aventura de análisis de datos y creación de dashboards en Excel. ¡Dale clic al botón de "Me gusta" y suscríbete para no perderte ninguna de nuestras futuras actualizaciones! ¡Comencemos! 🎬🚀
 
 🎬-VER VIDEO EN YOUTUBE: https://www.youtube.com/watch?v=Y8Xc-jwzNJk&ab_channel=JuancitoPe%C3%B1aV.
+
+![DASHBOARD](URL_DE_LA_IMAGEN)
